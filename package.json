@@ -1,0 +1,25 @@
+{
+  "name": "ranpha",
+  "version": "0.0.0",
+  "description": "ranpha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geta6",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-errors": "~0.8.5",
+    "coffee-script": "git://github.com/alubbe/coffee-script.git#1e377ed59bc4f679863b7543f0c33d1f89dbf6ac",
+    "eventemitter2": "~0.4.13",
+    "koa": "~0.2.1",
+    "koa-static": "~1.4.2",
+    "koa-session": "~1.2.0",
+    "koa-logger": "~1.1.0",
+    "koa-csrf": "~1.0.0",
+    "koa-route": "~1.0.2",
+    "koa-rewrite": "~1.0.0",
+    "koa-favicon": "~1.0.1",
+    "koa-qs": "~1.0.0"
+  }
+}
